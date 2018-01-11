@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 84fcc213ca7f95149bcb621ef207e25e
+timeCreated: 1486772231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_mesh_nosleve
+    100002: //RootNode
+    100004: l-forearm
+    100006: l-forearm-twist
+    100008: l-ik
+    100010: l-index-low
+    100012: l-index-mid
+    100014: l-index-tip
+    100016: l-middle-low
+    100018: l-middle-mid
+    100020: l-middle-tip
+    100022: l-pinky-low
+    100024: l-pinky-mid
+    100026: l-pinky-tip
+    100028: l-ring-low
+    100030: l-ring-mid
+    100032: l-ring-tip
+    100034: l-thumb-low
+    100036: l-thumb-mid
+    100038: l-thumb-tip
+    100040: l-upperarm
+    100042: l-upperarm-movement
+    100044: L_Wrist_Controller
+    100046: lwrist
+    100048: r-forearm
+    100050: r-forearm-twist
+    100052: r-ik
+    100054: r-index-low
+    100056: r-index-mid
+    100058: r-index-tip
+    100060: r-middle-low
+    100062: r-middle-mid
+    100064: r-middle-tip
+    100066: r-pinky-low
+    100068: r-pinky-mid
+    100070: r-pinky-tip
+    100072: r-ring-low
+    100074: r-ring-mid
+    100076: r-ring-tip
+    100078: r-rist
+    100080: r-thumb-low
+    100082: r-thumb-mid
+    100084: r-thumb-tip
+    100086: r-upperarm
+    100088: r-upperarm-movement
+    100090: R_Wrist_Controller
+    100092: sleves
+    100094: top-sleve
+    400000: arm_mesh_nosleve
+    400002: //RootNode
+    400004: l-forearm
+    400006: l-forearm-twist
+    400008: l-ik
+    400010: l-index-low
+    400012: l-index-mid
+    400014: l-index-tip
+    400016: l-middle-low
+    400018: l-middle-mid
+    400020: l-middle-tip
+    400022: l-pinky-low
+    400024: l-pinky-mid
+    400026: l-pinky-tip
+    400028: l-ring-low
+    400030: l-ring-mid
+    400032: l-ring-tip
+    400034: l-thumb-low
+    400036: l-thumb-mid
+    400038: l-thumb-tip
+    400040: l-upperarm
+    400042: l-upperarm-movement
+    400044: L_Wrist_Controller
+    400046: lwrist
+    400048: r-forearm
+    400050: r-forearm-twist
+    400052: r-ik
+    400054: r-index-low
+    400056: r-index-mid
+    400058: r-index-tip
+    400060: r-middle-low
+    400062: r-middle-mid
+    400064: r-middle-tip
+    400066: r-pinky-low
+    400068: r-pinky-mid
+    400070: r-pinky-tip
+    400072: r-ring-low
+    400074: r-ring-mid
+    400076: r-ring-tip
+    400078: r-rist
+    400080: r-thumb-low
+    400082: r-thumb-mid
+    400084: r-thumb-tip
+    400086: r-upperarm
+    400088: r-upperarm-movement
+    400090: R_Wrist_Controller
+    400092: sleves
+    400094: top-sleve
+    2300000: L_Wrist_Controller
+    2300002: R_Wrist_Controller
+    3300000: L_Wrist_Controller
+    3300002: R_Wrist_Controller
+    4300000: top-sleve
+    4300002: sleves
+    4300004: arm_mesh_nosleve
+    4300006: L_Wrist_Controller
+    4300008: R_Wrist_Controller
+    9500000: //RootNode
+    13700000: arm_mesh_nosleve
+    13700002: sleves
+    13700004: top-sleve
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
